@@ -1,4 +1,3 @@
-import javax.print.DocFlavor;
 import java.util.Scanner;
 
 public class BEE1011 {
