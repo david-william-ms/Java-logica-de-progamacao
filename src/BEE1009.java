@@ -21,7 +21,6 @@ public class BEE1009 {
         System.out.println("TOTAL = R$ "+String.format("%.2f",payment));
 
         sc.close();
-
     }
 
 }
